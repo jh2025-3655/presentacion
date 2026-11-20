@@ -13,4 +13,8 @@ Lenguaje: C#
 
 Entorno: Visual Studio code
 
+# descripcion
+
+mi proyecto esta en proceso mayormente para un rentacar tiene funcionamiento para llenar un formulario con tus datos y dias que necesitaras el vehiculo y es un formulario con algunas indicaciones  
+
 Tipo de aplicación: Windows Forms
