@@ -55,5 +55,19 @@ Tipo de aplicación: Windows Forms
 
 8- Sumar todos los valores para obtener el total a pagar 
 
-9- mostrar los resultados en pantalla y registrar el alquiler en la tabla
+9- mostrar los resultados en pantalla y registrar el alquiler en la 
+
+# Salida 
+
+1- subtotal del alquiler 
+
+2- Descuento Aplicado
+
+3- Costo de entrega a domicilio 
+
+4-ITBIS (18%)
+
+5-Total a pagar 
+
+6- Registro del alquiler en la tabla 
 
