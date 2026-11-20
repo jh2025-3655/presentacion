@@ -21,11 +21,18 @@ Tipo de aplicación: Windows Forms
 
 # datos de entrada 
 1- cliente
+
 2- Vehiculo
+
 3- tarifa
+
 4- Dias
+
 5- Fecha 
-6- seguro 
+
+6- seguro
+
 7- GPS
+
 8- tipo de entrega
-4- 
+
