@@ -18,3 +18,14 @@ Entorno: Visual Studio code
 mi proyecto esta en proceso mayormente para un rentacar tiene funcionamiento para llenar un formulario con tus datos y dias que necesitaras el vehiculo y es un formulario con algunas indicaciones  
 
 Tipo de aplicación: Windows Forms
+
+# datos de entrada 
+1- cliente
+2- Vehiculo
+3- tarifa
+4- Dias
+5- Fecha 
+6- seguro 
+7- GPS
+8- tipo de entrega
+4- 
